@@ -1,6 +1,6 @@
 [package]
 name = "cargo-mach"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["sagudev <samo.golez@outlook.com>"]
 edition = "2018"
 description = "Cargo wrapper for mozillas mach"
